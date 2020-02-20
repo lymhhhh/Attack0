@@ -259,3 +259,21 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/UnityEngine.TestRunner.csproj
+/UnityEditor.UI.csproj
+/UnityEditor.TestRunner.csproj
+/Unity.VSCode.Editor.csproj
+/Unity.Timeline.Editor.csproj
+/Unity.Timeline.csproj
+/Unity.TextMeshPro.Editor.csproj
+/Unity.TextMeshPro.csproj
+/Unity.Rider.Editor.csproj
+/Unity.CollabProxy.Editor.csproj
+/Unity.2D.Tilemap.Editor.csproj
+/Unity.2D.Sprite.Editor.csproj
+/UnityEngine.UI.csproj
+/Temp
+/ProjectSettings
+/Library
+/Attack0.sln
+/Attack0.csproj
